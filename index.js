@@ -6,11 +6,11 @@ function scuberGreetingForFeet (feet) {
   }
   
   else if (feet > 2000) {
-    return `I will gladly take your thirty bucks.`
+    return `I will gladly take your thirty bucks.`;
   }
   
   else if (feet > 2500) {
-    return `
+    return `No can do.`;
   }
 }
 
