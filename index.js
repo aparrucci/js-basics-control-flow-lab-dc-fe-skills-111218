@@ -15,4 +15,7 @@ function scuberGreetingForFeet (feet) {
   }
 }
 
-let 
+let ternaryCheckCity() {
+  
+  
+}
