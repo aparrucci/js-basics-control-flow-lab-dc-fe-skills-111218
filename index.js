@@ -1,6 +1,6 @@
 // Write your code in this file!
 
-      let feet 
+      const feet = 199
       
       
       function scuberGreetingForFeet (feet) {
