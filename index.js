@@ -3,8 +3,6 @@
       const feet = 199;
       let scuberGreetingForFeet;
       
-      let result
-      
       if (feet <=400) {
       result = "This one is on me!";}
         
