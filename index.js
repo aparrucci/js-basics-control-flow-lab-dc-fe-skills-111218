@@ -4,7 +4,7 @@
       
       let result
       
-      if (feet <=400) {
+      if feet (<=400) {
       result = "This one is on me!";}
         
       else if (feet >2000) {
