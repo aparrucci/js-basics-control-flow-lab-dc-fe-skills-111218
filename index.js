@@ -21,7 +21,6 @@ return (city === 'NYC') ? `Ok, sounds good.` : `No go.`;
 }
 
 const tip = 'generous';
-let tipFeedback;
 function switchOnCharmFromTip(tip) {
   switch (tip) {
     case 'generous':
