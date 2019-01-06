@@ -5,7 +5,7 @@ function scuberGreetingForFeet (feet) {
     return `This one is on me!`;
   }
   
-  
+  else if (feet )
   
 }
 
