@@ -1,7 +1,7 @@
 // Write your code in this file!
 
       const feet = 199;
-      let scuberGreetingForFeet {
+      let scuberGreetingForFeet;
       
       let result
       
