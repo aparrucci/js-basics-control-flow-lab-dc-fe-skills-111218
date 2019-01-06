@@ -14,6 +14,6 @@ function scuberGreetingForFeet (feet) {
     return `No can do.`;
   }
 }
-const city = 'Pittsburgh'
+const city = 'Pittsburgh';
 let ternaryCheckCity;
 
